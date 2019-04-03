@@ -41,7 +41,7 @@ sections:
   label: Test Posts Dir
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - posts
 upload_dir: uploads
